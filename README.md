@@ -1,4 +1,4 @@
-## Hi there 👋
+[![luminal's GitHub stats](https://github-readme-stats.vercel.app/api?username=1luminal)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **1luminal/1luminal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
