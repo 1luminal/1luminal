@@ -1,5 +1,3 @@
-![luminal's GitHub stats](https://github-readme-stats.vercel.app/api?username=1luminal&show_icons=true&hide=commits&theme=radical)
-
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=1luminal&show_icons=true&hide=commits&theme=radical"
@@ -9,6 +7,7 @@
     srcset="https://github-readme-stats.vercel.app/api?username=1luminal&show_icons=true&hide=commits"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
+  <img src="https://github-readme-stats.vercel.app/api?username=1luminal&show_icons=true&hide=commits" />
 </picture>
 
 <!--
